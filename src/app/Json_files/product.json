@@ -1,0 +1,37 @@
+[
+    {
+    "name":"Apple",
+    "id":1,
+    "cost":30,
+    "availability":1,
+    "details":"Imported from Swiss",
+    "category":"Premium",
+    "image":"https://wallpapercave.com/wp/wp2722984.jpg"
+    },
+    {
+    "name":"Mango",
+    "id":2,
+    "cost":50,
+    "availability":1,
+    "details":"Farmed at Selam",
+    "category":"Tamilnadu",
+    "image":"https://freepngimg.com/thumb/mango/1-2-mango-png-thumb.png"
+    },
+    {
+    "name":"Bananna",
+    "id":3,
+    "cost":5,
+    "availability":0,
+    "image":"https://media.istockphoto.com/photos/banana-bunch-picture-id173242750?b=1&k=20&m=173242750&s=170667a&w=0&h=oRhLWtbAiPOxFAWeo2xEeLzwmHHm8W1mtdNOS7Dddd4="
+    },
+    {
+    "name":"Orange",
+    "id":4,
+    "cost":25,
+    "availability":1,
+    "details":"from Nagpur",
+    "category":"Premium",
+    "image":"https://media.istockphoto.com/photos/whole-cross-section-and-quarter-of-fresh-organic-navel-orange-with-picture-id1227301369?b=1&k=20&m=1227301369&s=170667a&w=0&h=7WdK1RQTLuCn5tuNe25Z999THYzj8yijmk0MaRE-SD0="
+    }
+   ]
+   
